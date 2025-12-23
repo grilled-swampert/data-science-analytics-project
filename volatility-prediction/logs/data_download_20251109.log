@@ -1,0 +1,13 @@
+2025-11-09 09:46:23 - download_logger - INFO - [92m[OK] Starting download: ^GSPC (period=max, interval=1d)[0m
+2025-11-09 09:46:26 - download_logger - INFO - [92m[OK] Download complete: ^GSPC - 24581 rows saved to D:\final-year\ly_honors\volatility-prediction\compiled-approach\project\data\raw\^GSPC_max_20251109_094625.csv[0m
+2025-11-09 09:46:26 - download_logger - DEBUG - [96m[DBG] ^GSPC | Rows: 24581 | Columns: Open, High, Low, Close, Volume, Dividends, Stock Splits[0m
+2025-11-09 09:46:26 - download_logger - INFO - [92m[OK] Starting download: ^VIX (period=max, interval=1d)[0m
+2025-11-09 09:46:26 - download_logger - INFO - [92m[OK] Download complete: ^VIX - 9031 rows saved to D:\final-year\ly_honors\volatility-prediction\compiled-approach\project\data\raw\^VIX_max_20251109_094626.csv[0m
+2025-11-09 09:46:26 - download_logger - DEBUG - [96m[DBG] ^VIX | Rows: 9031 | Columns: Open, High, Low, Close, Volume, Dividends, Stock Splits[0m
+2025-11-09 09:46:26 - download_logger - INFO - [92m[OK] Starting download: ^IXIC (period=max, interval=1d)[0m
+2025-11-09 09:46:27 - download_logger - INFO - [92m[OK] Download complete: ^IXIC - 13807 rows saved to D:\final-year\ly_honors\volatility-prediction\compiled-approach\project\data\raw\^IXIC_max_20251109_094627.csv[0m
+2025-11-09 09:46:27 - download_logger - DEBUG - [96m[DBG] ^IXIC | Rows: 13807 | Columns: Open, High, Low, Close, Volume, Dividends, Stock Splits[0m
+2025-11-09 09:46:27 - download_logger - INFO - [92m[OK] Starting download: ^DJI (period=max, interval=1d)[0m
+2025-11-09 09:46:28 - download_logger - INFO - [92m[OK] Download complete: ^DJI - 8525 rows saved to D:\final-year\ly_honors\volatility-prediction\compiled-approach\project\data\raw\^DJI_max_20251109_094628.csv[0m
+2025-11-09 09:46:28 - download_logger - DEBUG - [96m[DBG] ^DJI | Rows: 8525 | Columns: Open, High, Low, Close, Volume, Dividends, Stock Splits[0m
+2025-11-09 09:46:34 - download_logger - INFO - [92m[OK] Combined Excel saved to D:\final-year\ly_honors\volatility-prediction\compiled-approach\project\data\raw\combined_stocks_max.xlsx[0m
